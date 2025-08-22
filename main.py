@@ -1,7 +1,7 @@
 from tkinter import *
 
 window = Tk()
-
+window.resizable(0, 0)
 
 
 
